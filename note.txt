@@ -1,0 +1,4 @@
+-Employee  managment server
+-add employee [first name, lastname, age, qualification, phone]
+-view employee
+-update a specific employee details
